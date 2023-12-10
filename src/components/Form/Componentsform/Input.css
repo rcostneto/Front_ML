@@ -1,0 +1,71 @@
+.form_control {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+    
+}
+
+.form_control label {
+    margin-bottom: .1em;
+    font-size: 13px;
+    font-weight: 'regular';
+    font-family: 'roboto';
+    color: #B00020;
+    
+}
+
+.form_control input {
+    padding: .2em;
+    border-radius: 0.5cap;
+    border-color: #CF6679;
+    border-style:double;
+}
+
+.form_control input::placeholder {
+    color: #bbbbbb;
+}
+
+.formulario {
+    display: flex;
+    padding-top: 160px;
+    padding-left: 190px;
+    border-radius: 40% ;
+  }
+
+.esquerda {
+    width: 400px;
+    padding-left: 20px;
+    
+}
+
+.lateral {
+    width: 400px;
+    flex-direction: column;
+    
+   
+}
+.btn {
+    
+    margin-left: 287px;
+}
+
+.nome {
+    width: 40%;
+    color:red;
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: -15px;
+    margin-bottom: 0.7px;
+}
+
+.email {
+    
+    color:red;
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: -18px;
+    margin-bottom: 3px;
+    
+}
+
+

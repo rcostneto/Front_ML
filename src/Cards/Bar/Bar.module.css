@@ -1,0 +1,72 @@
+table {
+    
+    width: 92.7%;
+    margin-left: 20px;
+    
+    
+}
+
+tr.bar {
+    width: 91%;
+    display: flex;
+    background-color: #B00020;
+    margin-bottom: -25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+    font-size: 13px;
+    margin-left: -30px;
+
+    
+}
+
+
+  td.conteiner_bar_nome {
+    padding-left: 10px;
+  }
+
+  td.conteiner_bar_idade {
+    padding-left: 203px;
+  }
+
+  td.conteiner_bar_sexo {
+    padding-left: 38px;
+  }
+
+  td.conteiner_bar_torax {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_pa {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_colesterol {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_glicose {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_ecg {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_fcm {
+    padding-left: 30px;
+  }
+
+  td.conteiner_bar_resultado {
+    padding-left: 30px;
+    font-weight: bold;
+  }
+
+  td.conteiner_bar_edit {
+    padding-left: 96px;
+  }
+
+  td.conteiner_bar_remove {
+    padding-left: 8px;
+  }
+

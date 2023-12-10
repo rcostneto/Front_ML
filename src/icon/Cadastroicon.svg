@@ -1,0 +1,20 @@
+<svg id="Cadastroicon" xmlns="http://www.w3.org/2000/svg" width="108" height="23" viewBox="0 0 108 23">
+  <text id="CADASTROS" transform="translate(26 17)" fill="#bbb" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">CADASTROS</tspan></text>
+  <g id="app_registration_black_24dp">
+    <g id="Grupo_20" data-name="Grupo 20">
+      <rect id="Retângulo_406" data-name="Retângulo 406" width="23" height="23" fill="none"/>
+    </g>
+    <g id="Grupo_22" data-name="Grupo 22" transform="translate(3 3.5)">
+      <g id="Grupo_21" data-name="Grupo 21">
+        <rect id="Retângulo_407" data-name="Retângulo 407" width="4" height="4" transform="translate(6)" fill="#bbb"/>
+        <rect id="Retângulo_408" data-name="Retângulo 408" width="4" height="4" transform="translate(0 12)" fill="#bbb"/>
+        <rect id="Retângulo_409" data-name="Retângulo 409" width="4" height="4" transform="translate(0 6)" fill="#bbb"/>
+        <rect id="Retângulo_410" data-name="Retângulo 410" width="4" height="4" fill="#bbb"/>
+        <path id="Caminho_209" data-name="Caminho 209" d="M14,12.42V10H10v4h2.42Z" transform="translate(-4 -4)" fill="#bbb"/>
+        <path id="Caminho_210" data-name="Caminho 210" d="M20.88,11.29l-1.17-1.17a.41.41,0,0,0-.58,0l-.88.88L20,12.75l.88-.88A.41.41,0,0,0,20.88,11.29Z" transform="translate(-4 -4)" fill="#bbb"/>
+        <path id="Caminho_211" data-name="Caminho 211" d="M11,18.25V20h1.75l6.67-6.67-1.75-1.75Z" transform="translate(-4 -4)" fill="#bbb"/>
+        <rect id="Retângulo_411" data-name="Retângulo 411" width="4" height="4" transform="translate(12)" fill="#bbb"/>
+      </g>
+    </g>
+  </g>
+</svg>

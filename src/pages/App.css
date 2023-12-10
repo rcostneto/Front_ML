@@ -1,0 +1,364 @@
+@media (min-width:360px){
+.head_barra {
+  width: 100%;
+  height: 70px;
+  background-color: #B00020;
+  display: flex;
+  
+}
+
+.font_head {
+  font-weight: bold;
+  padding-top: 22px;
+  padding-left: 115px;
+  display: flex;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.text_name {
+  display: flex;
+  color: #ffffff;
+  padding-left: 893px;
+  font-size: 10px;
+  padding-top: 11px;
+}
+
+.name {
+  
+  flex-direction: row;
+  padding-right: 5px;
+  
+}
+
+.busca {
+  flex-direction: row;
+  width: 310px;
+  margin-top: -3px;
+  margin-right: -260px;
+  justify-content: center;
+}
+
+.notifica {
+  
+  flex-direction: row;
+  width: 310px;
+  margin-top: -3px;
+  margin-right: -260px;
+  justify-content: center;
+  
+}
+
+.ico {
+  flex-direction: row;
+  padding-left: -5px;
+  margin-top: -4px;
+  
+}
+
+
+.Verticalbar {
+  
+  text-align: center;
+  background-color: #CF6679;
+  width: 160px;
+  height: 698px;
+  font-size: 13px;
+  margin-left: 76px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 13px;
+  
+}
+
+.home {
+  
+  width: 88px;
+  display: flex;
+  margin-left: -30px;
+  padding-top: 47px;
+  
+}
+
+.casa {
+  padding-right: 3px;
+  
+}
+
+.ordem {
+  
+  display: flex;
+  width: 125px;
+  justify-content:left;
+  margin-left: -30px;
+  padding-top: 27px;
+}
+
+.service {
+  padding-right: 3px;
+}
+
+.venda {
+  display: flex;
+  width: 187px;
+  justify-content:left;
+  margin-left: -30px;
+  padding-top: 27px;
+}
+
+.servico {
+  display: flex;
+  width: 187px;
+  justify-content:left;
+  margin-left: -30px;
+  padding-top: 27px;
+}
+
+.serve {
+  padding-right: 3px;
+}
+
+.cadastro {
+  display: flex;
+  width: 187px;
+  justify-content:left;
+  padding-left: 32px;
+  padding-top: 27px;
+}
+
+.reg {
+  padding-right: 3px;
+  
+}
+
+.usuario {
+  margin-left: 160px;
+  height: 0px;
+  
+}
+
+.adduser {
+  padding-top: 250px;
+  padding-right: 3px;
+  padding-left: -20px;
+}
+
+.sair {
+  display: flex;
+  width: 187px;
+  justify-content:left;
+  padding-left: 32px;
+  padding-top: 122px;
+}
+
+.out {
+  padding-right: 3px;
+}
+
+
+
+.fundo {
+  background-color: #eeeeee;
+  margin-left: 310px;
+  width: 1137px;
+  height: 690px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.fundo_reg {
+  background-color: #eeeeee;
+  margin-left: 152px;
+  width: 1137px;
+  height: 768px;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.borda{
+  
+  padding-top: 0px;
+  height: 0px;
+  padding-left: 400px;
+
+}
+
+.mensagem {
+ padding-top: 190px;
+ margin-left: 190px;
+}
+
+.bar {
+  
+  padding-top: 32px;
+  margin-left: -278px;
+  
+}
+
+.supbar {
+  padding-top: 175px;
+  padding-left: 152px;
+}
+
+.backcad {
+  padding-top: 89px;
+  padding-left: 135px;
+}
+
+.backuser {
+  padding-top: 90px;
+  padding-left: 290px;
+}
+
+.backnewuser {
+  
+  width: 120px;
+  padding-top: 90px;
+  padding-left: 373px;
+}
+
+.newcad {
+  color: black;
+  margin-left: -380px;
+  padding-top: 156px;
+  font-size: 13px;
+  font-weight: bold;
+  width: "17"; 
+  height:"16";
+}
+
+.cadnew {
+  color:  #bbbbbb;
+  margin-left: -47px;
+  padding-top: 192px;
+  font-family:'Roboto';
+  font-weight: bold;
+  font-size: 13px;
+  font-style: normal;
+  
+}
+
+.regnew {
+  margin-left: -38px;
+  margin-top: -20px;
+}
+
+.newreg {
+  display: flex;
+  margin-left: -70px;
+  padding-top: 192px;
+  font-size: 13px;
+  font-weight: bold;
+  width: "17"; 
+  height:"16";
+}
+
+.outnew {
+  margin-left: -70px;
+  padding-top: 149px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #ffffff;
+  width: "17"; 
+  height:"16";
+}
+
+.cadicon {
+ 
+  margin-top:-698px;
+  margin-left:300px;
+  height: 698px;
+ 
+}
+
+.cadbut {
+  margin-top:-698px;
+  margin-left:1330px;
+  height: 698px;
+}
+
+
+.usunew {
+  margin-top:-698px;
+  margin-left: 310px;
+  height: 698px;
+}
+
+.novouser {
+  
+  padding-top: 770px;
+  padding-left: 500px;
+  
+}
+
+.adicionausuario {
+  padding-top: 980px;
+  margin-left: -120px;
+}
+
+.novoicon {
+  
+  padding-top: 795px;
+  padding-left: 0px;
+}
+
+.caduser {
+  display: flex;
+  padding-top: 835px;
+  padding-left: 200px;
+  
+}
+
+.legend {
+  
+  margin-left: 320px;
+  height: 0px;
+}
+
+.legenda {
+  padding-top: 134.5px;
+}
+
+.leg {
+  padding-top: 150px;
+}
+
+.legend1 {
+  
+  margin-left: 320px;
+  height: 0px;
+}
+
+.result {
+  padding-top: 143px;
+}
+
+.res {
+  
+  margin-left: 330px;
+  height: 0px;
+}
+
+
+
+
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffffff;
+}
+.messagens {
+  
+  margin-top: -653px;
+  
+  margin-left: 280px;
+  
+}
+}
+
+

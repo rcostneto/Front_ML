@@ -1,0 +1,92 @@
+@media (min-width:480px) {
+.container{
+    display: flex;
+    width: 90.4%;
+    color: #000;
+    font-size: 11px;
+    margin-left: -23px;
+    margin-top: -8px;
+    margin-bottom: 8px;
+    padding-top: 3px;
+    /* justify-content: center; */
+    background-color: #fff;
+}
+
+
+.container_card_name {
+    word-wrap: break-word;
+    height: 20px;
+    margin-left: 3px;
+    min-width:16.8%;
+    
+
+}
+
+.container_card_idade {
+    height: 20px;
+    padding-left: 79px;
+    min-width:12.5%;
+
+}
+
+.container_card_sexo {
+    height: 20px;
+    margin-left: -55px;
+
+}
+
+.container_card_dor_torax {
+    height: 20px;
+    margin-left: 63px;
+   
+
+}
+
+.container_card_pa {
+    height: 20px;
+    margin-left: 58px;
+
+}
+
+.container_card_colesterol {
+    height: 20px;
+    margin-left: 48px;
+    
+    
+}
+
+.container_card_glicose {
+    height: 20px;
+    margin-left: 68px;
+    min-width:6.5%;
+}
+
+.container_card_ecg {
+    height: 20px;
+    min-width:0.8%;
+    margin-left: -1px;
+}
+.container_card_fcm {
+    height: 20px;
+    margin-left: 40px;
+    min-width:8%;
+}
+.container_card_resultado {
+    height: 20px;
+    min-width:13%;
+}
+.container_card_editar a {
+    height: 20px;
+    margin-left: 6px;
+    transition: 0.1s;
+}
+
+.container_card_remover button {
+    border: none;
+    height: 20px;
+    margin-left: 24.5px;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+}

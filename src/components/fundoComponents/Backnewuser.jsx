@@ -1,0 +1,12 @@
+export const Backnewuser = () => {
+    return (
+        <div className="backnewuser">
+            <svg id="backUser" xmlns="http://www.w3.org/2000/svg" width="94" height="15" viewBox="0 0 94 15">
+  <g id="Forward_arrow_small" data-name="Forward arrow small" transform="translate(0 3.6)">
+    <path id="Caminho_36" data-name="Caminho 36" d="M4.5,8,0,1.836,1.34,0,4.5,4.328,7.66,0,9,1.836Z" transform="translate(0 9) rotate(-90)" fill="#ccc"/>
+  </g>
+  <text id="NOVO_PACIENTE" data-name="NOVO PACIENTE" transform="translate(52 12)" fill="#ccc" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-41.795" y="0">NOVO PACIENTE</tspan></text>
+</svg>
+        </div>
+    );
+}
